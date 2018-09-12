@@ -1,0 +1,35 @@
+h2,
+h3 {
+  font-family: "Raleway", sans-serif;
+}
+h2 {
+  text-align: center;
+}
+button {
+  width: 125px;
+  height: 40px;
+  border-radius: 18px;
+}
+#list {
+  display: grid;
+  justify-content: center;
+}
+header {
+  display: grid;
+
+  justify-content: center;
+}
+#wrapper {
+  display: flex;
+  justify-content: space-around;
+  padding: 4em 0 3em 0em;
+}
+#div1 {
+  width: 60px;
+  height: 30px;
+  background-color: rgb(175, 175, 175);
+  border-radius: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
